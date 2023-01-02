@@ -1,0 +1,28 @@
+{
+  "name": "picapi",
+  "version": "0.0.1",
+  "description": "This API will get and post images",
+  "main": "test.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jellychain1"
+  },
+  "keywords": [
+    "Picture",
+    "NFT",
+    "ART",
+    "API",
+    "AI"
+  ],
+  "author": "Life Coach Ray",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
